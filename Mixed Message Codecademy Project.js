@@ -38,4 +38,4 @@ const randomContent = content[Math.floor(Math.random() * content.length)]
 
 const randomMessage = randomSubject + ' ' + number + ' ' + randomContent + '.'
 
-console.log(randomMessage + number)
+console.log(randomMessage)
